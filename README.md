@@ -8,19 +8,15 @@
 <a href="https://www.linkedin.com/in/mukhammadumar-rustamov-16385028a">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="https://t.me/Muhammadumar_2004">
 <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
-
 <a href="https://instagram.com/rustamov_m_u">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-
 <a href="mailto:rustamovmuhammadumar2004@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 </p>
 
 </div>
@@ -29,46 +25,39 @@
 
 # 💫 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+<img align="right" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
+- 🎓 Computer Science student who loves turning ideas into working products
+- 💻 Full-stack developer focused on **React / Next.js** on the frontend and **Node.js, Express & Django** on the backend
+- 🔭 Currently building projects around real-time apps and data-driven dashboards
+- 🌱 Currently deepening my knowledge of **TypeScript**, system design, and clean architecture
+- 🤝 Open to collaborating on open-source and full-stack web projects
+- ⚡ Fun fact: I enjoy refactoring code almost as much as writing it
 
-
-
+<br clear="right"/>
 
 ---
 
 # 🚀 Tech Stack
 
 ### Frontend
-
 <p>
-
 <img src="https://skillicons.dev/icons?i=react,nextjs,redux,ts,js,html,css"/>
-
 </p>
 
 ### Backend
-
 <p>
-
 <img src="https://skillicons.dev/icons?i=nodejs,express,django,python"/>
-
 </p>
 
 ### Database
-
 <p>
-
 <img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
-
 </p>
 
 ### Tools
-
 <p>
-
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
-
 </p>
 
 ---
@@ -76,27 +65,22 @@
 # 📊 GitHub Analytics
 
 <p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rustamovmu&show_icons=true&theme=tokyonight&hide_border=true"/>
-
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rustamovmu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rustamovmu&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 <p align="center">
-
 <img width="70%" src="https://streak-stats.demolab.com?user=Rustamovmu&theme=tokyonight&hide_border=true"/>
-
 </p>
+
+> Note: the stats/streak widgets above run on shared public instances (`vercel.app` / `demolab.com`). They occasionally rate-limit or go down. If a badge stops rendering, refresh in a few minutes, or self-host `github-readme-stats` on your own Vercel account for a permanent fix.
 
 ---
 
 # 🏆 GitHub Trophies
 
 <p align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=Rustamovmu&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-
 </p>
 
 ---
@@ -104,29 +88,16 @@
 # 📈 Contribution Graph
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rustamovmu&theme=tokyo-night"/>
-
 </p>
 
-
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Rustamovmu/Rustamovmu/output/github-contribution-grid-snake-dark.svg"/>
-</p>
 
 ---
 
 # 👀 Profile Views
 
 <p align="center">
-
 <img src="https://komarev.com/ghpvc/?username=Rustamovmu&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
 </p>
 
 ---
@@ -134,9 +105,7 @@
 # 💻 Random Dev Quote
 
 <p align="center">
-
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
 </p>
 
 ---
@@ -144,105 +113,70 @@
 # 🚀 Featured Projects
 
 <table>
-
 <tr>
-
 <td width="50%">
 
-<h3 align="center">🛒 E-Commerce Platform</h3>
-
-<p align="center">
-
+### 🛒 E-Commerce Platform
 Modern full stack online shopping platform.
 
-React • Next.js • Express • MongoDB
+**React • Next.js • Express • MongoDB**
 
+<p align="center">
+<a href="https://github.com/Rustamovmu/REPLACE-WITH-REPO-NAME"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Live_Demo-00D9FF?style=flat-square&logo=vercel&logoColor=white"/></a>
 </p>
 
 </td>
-
 <td width="50%">
 
-<h3 align="center">💬 Real-Time Chat App</h3>
-
-<p align="center">
-
+### 💬 Real-Time Chat App
 Messaging application with authentication.
 
-Next.js • Socket.io • Node.js
+**Next.js • Socket.io • Node.js**
 
+<p align="center">
+<a href="https://github.com/Rustamovmu/REPLACE-WITH-REPO-NAME"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Live_Demo-00D9FF?style=flat-square&logo=vercel&logoColor=white"/></a>
 </p>
 
 </td>
-
 </tr>
-
 <tr>
-
 <td width="50%">
 
-<h3 align="center">📋 Task Management System</h3>
-
-<p align="center">
-
+### 📋 Task Management System
 Project management dashboard.
 
-React • Express • MongoDB
-
-</p>
-
-</td>
-
-<td width="50%">
-
-<h3 align="center">🎓 Learning Management System</h3>
+**React • Express • MongoDB**
 
 <p align="center">
-
-Course management platform.
-
-React • Django • MySQL
-
+<a href="https://github.com/Rustamovmu/REPLACE-WITH-REPO-NAME"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Live_Demo-00D9FF?style=flat-square&logo=vercel&logoColor=white"/></a>
 </p>
 
 </td>
+<td width="50%">
 
+### 🎓 Learning Management System
+Course management platform.
+
+**React • Django • MySQL**
+
+<p align="center">
+<a href="https://github.com/Rustamovmu/REPLACE-WITH-REPO-NAME"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Live_Demo-00D9FF?style=flat-square&logo=vercel&logoColor=white"/></a>
+</p>
+
+</td>
 </tr>
-
 </table>
 
 ---
 
 <div align="center">
 
-## 🌎 Let's Connect
-
-<a href="https://www.linkedin.com/in/mukhammadumar-rustamov-16385028a">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://t.me/Muhammadumar_2004">
-<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram"/>
-</a>
-
-<a href="https://instagram.com/rustamov_m_u">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
-</a>
-
-<a href="mailto:rustamovmuhammadumar2004@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile ⭐
+### ⭐ Thanks for visiting — feel free to reach out on any of the links above ⭐
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
 
 </div>
-
-
