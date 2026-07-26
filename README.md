@@ -29,7 +29,7 @@
 
 # 💫 About Me
 
-<img align="right" width="380" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"/>
+<img align="right" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
 ```javascript
 const rustamov = {
