@@ -31,44 +31,6 @@
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
-```javascript
-const rustamov = {
-    location: "Uzbekistan",
-    role: "Full Stack Developer",
-    education: "Computer Engineering",
-    frontend: [
-        "React",
-        "Next.js",
-        "Redux",
-        "JavaScript",
-        "TypeScript",
-        "HTML",
-        "CSS"
-    ],
-    backend: [
-        "Node.js",
-        "Express",
-        "Django",
-        "Python"
-    ],
-    database: [
-        "MongoDB",
-        "MySQL"
-    ],
-    tools: [
-        "Git",
-        "GitHub",
-        "VS Code",
-        "Postman"
-    ],
-    currentlyLearning: [
-        "System Design",
-        "Cloud",
-        "Backend Architecture"
-    ]
-}
-```
-
 ---
 
 # 🚀 Tech Stack
