@@ -28,7 +28,7 @@
 <img align="right" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
 - 🎓 Computer Science student who loves turning ideas into working products
-- 💻 Full-stack developer focused on **React / Next.js** on the frontend and **Node.js, Express & Django** on the backend
+- 💻 Full-stack developer focused on **React, EJS / Next.js** on the frontend and **Node.js, Nest.js, Express & Django** on the backend
 - 🔭 Currently building projects around real-time apps and data-driven dashboards
 - 🌱 Currently deepening my knowledge of **TypeScript**, system design, and clean architecture
 - 🤝 Open to collaborating on open-source and full-stack web projects
